@@ -1,0 +1,6 @@
+{
+  "name": "Social Spark",
+  "description": "Interactive visual cues, real-world social scenarios, customizable avatars, audio narration, and parent dashboard for neurodivergent kids (ages 6-8).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
